@@ -1,0 +1,3 @@
+python-telegram-bot==20.3
+sqlalchemy==1.4.41
+solana==0.34.3
